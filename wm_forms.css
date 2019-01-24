@@ -6,8 +6,8 @@
    Case Problem 3
 
    WidgetMage Form Styles
-   Author: 
-   Date:   
+   Author: Patrick M Capuano
+   Date:   1.24.19
 
    Filename: wm_forms.css
 
@@ -15,7 +15,12 @@
 
 /* Field Set Styles */
 
+fieldset {
+    border-style: none;
+    width: 60%;
+    margin-top: 60px;
 
+}
 
 
 /* DIV Styles */
@@ -29,9 +34,3 @@
 
 
 /* Placeholder Styles */
-
-
-
-
-
-   
